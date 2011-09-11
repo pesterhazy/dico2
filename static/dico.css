@@ -1,0 +1,41 @@
+p, h1, form, button{border:0; margin:0; padding:0;}
+
+#formEl {
+  display: block;
+  width: 250px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-style: solid; border-width: 1px; padding: 10px;
+	background-color: #F0F0F0;
+}
+
+div.sourcename {
+  color:blue;
+  float:right;
+  padding: 15px 5px;
+}
+  
+/* REF */
+
+span.line {border-color: #CCC; border-width: 1px 0 0 0; border-style: solid; width: 100%; display: block}
+
+div.answer {background-color: #fff8cc }
+div.answerAlt {background-color: #ffffff }
+
+/* UD */
+
+#entries {margin-top: 10px; margin-bottom: 6px}
+.thumbs {white-space: nowrap}
+.thumbs a {outline: 0; text-decoration: none; color: black}
+.thumbs a:hover {text-decoration: underline}
+.thumbs img {padding-left: 3px}
+#entries .index {padding-right: 10px; width: 20px}
+#entries .example {font-style: italic; margin-top: 5pt; margin-bottom: 5pt}
+#entries .spacer td {padding-bottom: 20px}
+#entries .text {padding-right: 15px; line-height: 17pt; padding-bottom: 15px}
+
+/* TFD */
+
+.hw{FONT-WEIGHT:bold}
+.illustration{COLOR:#226699;FONT-STYLE:italic}
+DIV.def,DIV.ds-single,DIV.ds-list,DIV.notx,DIV.regn,DIV.sndlst,DIV.syntx,DIV.usen,DIV.wrdhst,DIV.sds-single,DIV.sds-list{MARGIN-LEFT:1cm}
